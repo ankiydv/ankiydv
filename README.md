@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="1" src="https://github.com/user-attachments/assets/5dfdd4e0-ad72-4e6e-b410-4f19f14c209b" />
+
 <p align="center">
   <img src="BANNER_IMAGE_URL" alt="Ankit Yadav Banner" width="100%">
 </p>
@@ -10,9 +10,9 @@
 ---
 
 ### 🌟 About Me
-- 💻 Blending **code + creativity** — from AI prompt kits to surreal 3D storytelling.  
+- 💻 Blending **code + creativity**  from AI prompt kits to surreal 3D storytelling.  
 - 🎨 Building immersive **visuals & scripts** for projects like **VEO3**, surreal comics, and interactive stories.  
-- 📍 Based in India — working globally.  
+- 📍 Based in India  working globally.  
 - ⚡ Fun fact: I can turn your random late-night idea into a full-blown visual universe.  
 
 ---
