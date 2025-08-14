@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="BANNER_IMAGE_URL" alt="Ankit Yadav Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ankiydv/ankiydv/main/1.png" alt="Ankit Yadav Banner" width="100%">
 </p>
 
 <h1 align="center">Hey, I'm Ankit Yadav 👋</h1>
@@ -48,4 +48,4 @@
 
 ---
 
-> *“Turning code into stories, and stories into worlds.”* 🌌
+> *“Turning code into stories, and stories into words.”* 🌌
